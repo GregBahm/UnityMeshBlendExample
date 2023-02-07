@@ -1,0 +1,9 @@
+﻿MeshBlendExample/Library
+MeshBlendExample/Temp
+MeshBlendExample/UserSettings
+MeshBlendExample/Logs
+MeshBlendExample/obj
+*.csproj
+.vsconfig
+*.sln
+.vs

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HeadMat
+  m_Shader: {fileID: 4800000, guid: edeb78a14cda5584dae25c0e8df4cfe9, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 32ae0b4dbb50d9049869b5c93089a75b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 16e8dff8d9f1e7b4ea620ee6b9e08104, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaterialMap:
+        m_Texture: {fileID: 2800000, guid: 231c9be6c21a92c4ca409f21335e7df6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShutUpUnityMap:
+        m_Texture: {fileID: 2800000, guid: 32ae0b4dbb50d9049869b5c93089a75b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AnisotropicHair: 0
+    - _ContentUpdates: 0
+    - _DisableShadows: 0
+    - _MainLightPower: 1
+    - _MainLightRamp: 1.5
+    - _RimRamp: 10
+    - _RimStrength: 3.4
+    - _SkinMoisture: 0
+    - _Test: 0
+    - _Transition: 1
+    m_Colors:
+    - _HairNeutralizer: {r: 0.8679245, g: 0.5363119, b: 0.5363119, a: 0.019607844}
+    - _HighShadowColor: {r: 0.24705884, g: 0.3529412, b: 0.6039216, a: 0}
+    - _HighShadowColorB: {r: 0.427451, g: 0.5137255, b: 0.74509805, a: 0}
+    - _LowShadowColor: {r: 0.18823531, g: 0.16862746, b: 0.34901962, a: 0}
+    - _MainLightingColor: {r: 1, g: 0.95686275, b: 0.9019608, a: 0}
+    - _RimColor: {r: 0.2588235, g: 0.8893124, b: 1, a: 0}
+    - _RimLightAngle: {r: 0.85, g: -0.39, b: 0.95, a: 0}
+    - _RimLightColor: {r: 0.25943398, g: 0.6805401, b: 1, a: 0}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
